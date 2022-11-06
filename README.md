@@ -5,7 +5,7 @@
 
 Hi there, I am Khaled!<br>
 
-I am a programmer and software developer, I mostly use Python as my favourite programming language, what I mostly love in in developing with the experience I have is **making bots 🤖** as I use the **Selenium webdriver** and **DiscordPy** modules too many (automation testing in shortcut).
+I am a programmer and software developer, I mostly use Python as my favourite programming language, what I mostly love in developing with the experience I have is **making bots 🤖** as I use the **Selenium webdriver** and **DiscordPy** modules too many (automation testing in shortcut).
 
 <br>
 
