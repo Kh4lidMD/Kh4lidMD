@@ -9,11 +9,9 @@ I am a programmer and software developer, I mostly use Python as my favourite pr
 
 <br>
 
-My story started with Minecraft commands when I was 12, I wanted something bigger as real programming but it was hard at that time, when I reached 14 and I was browsing on my phone, I found an app called Mimo which teaches you programming that popped up for me as ad.
+My story started with Minecraft commands when I was 12, I wanted something bigger as real programming but it was hard at that time, when I reached 14 and I started with HTML, then to CSS and JavaScript! and then to my favourite language **_Python_**!
 
-I started with HTML, then to CSS and JavaScript! and then to my favourite language **_Python_**!
-
-And now I have maybe +2 years of experience
+And now I have maybe +2 years of experience.
 
 <br>
 
