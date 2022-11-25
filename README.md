@@ -17,9 +17,9 @@ And now I have maybe +2 years of experience.
 
 ## 🚩 &nbsp;Projects I made
 
+- [AlAdhan](https://www.github.com/Kh4lidMD/AlAdhan)
 - [InstaReset](https://www.github.com/Kh4lidMD/InstaReset/)
 - [Tkinter Battery Status](https://github.com/Kh4lidMD/Tkinter-Battery-Status)
-- [AlAdhan](https://www.github.com/Kh4lidMD/AlAdhan)
 
 <br>
 
