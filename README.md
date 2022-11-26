@@ -39,19 +39,21 @@ And now I have maybe +2 years of experience.
 
 <br>
 
-## 👨‍💻 &nbsp;IDEs
+## 👨‍💻 &nbsp;Experienced In
 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio)
+![PyPi](https://img.shields.io/badge/PyPi-black?style=for-the-badge&logo=pypi)
 &nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 &nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm)
+![Discord](https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord)
 &nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime-grey?style=for-the-badge&logo=sublimetext)
+![SemVer](https://img.shields.io/badge/SemVer-Semantic%20Versioning-%3CCOLOR%3E?style=for-the-badge&logo=semver)
 &nbsp;
-![Atom](https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=atom)
+![Windows 11](https://img.shields.io/badge/Windows-11-0078D4?style=for-the-badge&logo=windows11)
 &nbsp;
-![VIM](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
+![iOS](https://img.shields.io/badge/-iPhone-000000?style=for-the-badge&logo=ios)
+&nbsp;
+![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android)
 
 <br>
 
