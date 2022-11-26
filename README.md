@@ -1,9 +1,9 @@
-<h1 align="center">Hi , I'm Khaled <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Khaled! <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Python%20Expert;Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-Hi there, I am Khaled!<br>
+Hi there, I am Khaled. A 16 years old developer!<br>
 
 I am a programmer and software developer, I mostly use Python as my favourite programming language, what I mostly love in developing with the experience I have is **making bots 🤖** as I use the **Selenium webdriver** and **DiscordPy** modules too many (automation testing in shortcut).
 
