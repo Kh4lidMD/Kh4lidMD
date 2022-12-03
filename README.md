@@ -70,3 +70,13 @@ And now I have maybe +2 years of experience.
 ## 🤝🏻 &nbsp;Connect with Me
 
 ![Instagram](https://img.shields.io/badge/Instagram-KHXQL-white?style=for-the-badge&logo=instagram&link=http://www.instagram.com/khxql/)
+
+<br><br><br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shameemreza/shameemreza/master/code.gif" style="float: right;">
+  <br>
+  <i>Programmer always have a different view of life.</i>
+  <br>
+  <i>- Khaled Mahmoud -</i>
+</p>
