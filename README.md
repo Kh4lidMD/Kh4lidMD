@@ -15,14 +15,6 @@ And now I have maybe +2 years of experience.
 
 <br>
 
-## 🚩 &nbsp;Projects I made
-
-- [AlAdhan](https://www.github.com/Kh4lidMD/AlAdhan)
-- [InstaReset](https://www.github.com/Kh4lidMD/InstaReset/)
-- [Tkinter Battery Status](https://github.com/Kh4lidMD/Tkinter-Battery-Status)
-
-<br>
-
 ## 🛠 &nbsp;Programming
 
 ![Python](https://img.shields.io/badge/Python-3.11-brightgreen?style=for-the-badge&logo=python)
