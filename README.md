@@ -33,6 +33,11 @@ I am a software developer, I mostly use Python as my favourite programming langu
 - reStructuredText (.rst)
 - Markdown (.md)
 
+## 📄&nbsp;Other markup languages
+
+- HTML5
+- CSS3
+
 ## 📊 &nbsp;Data formatting 
 
 - JSON
