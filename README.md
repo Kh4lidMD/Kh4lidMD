@@ -61,6 +61,7 @@ I am a software developer, I mostly use Python as my favourite programming langu
 - Email: KhalidYBel@gmail.com
 - Instagram: [@khxql](https://www.instagram.com/khxql/)
 - Telegram: [@khx40](https://t.me/khx40)
+- Discord: khaledd#1677
 
 <br><br><br>
 
