@@ -12,11 +12,11 @@ I am a software developer, I mostly use Python as my favourite programming langu
 ## 🛠 &nbsp;Programming
 
 - Python 🐍
-  - Package managment
-  - Selenium Webdriver
-  - DiscordPy
-  - Automation testing
-  - OOP
+  - Package managment.
+  - Discord bots.
+  - Automation testing.
+  - AI.
+  - OOP.
 - JavaScript 💻
   - jQuery
   - Basics
