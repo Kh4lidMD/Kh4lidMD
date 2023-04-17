@@ -1,69 +1,17 @@
-<h1 align="center">Hi, I'm Khaled! <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center">Khalid Mahmoud <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Python%20Expert;Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-Hi there, I am Khaled. A 16 years old developer from Syria!<br>
+👋 Hello there! I'm Khalid, a 17-year-old self-learner and programmer from Syria, currently based in Qatar. I've been into programming for 3 years now, and my favorite language is Python.
 
-I am a software developer, I mostly use Python as my favourite programming language, I am experienced with **making bots 🤖** as I use the **Selenium webdriver** and **DiscordPy** modules, or let's just say automation testing in shortcut. My story started with Minecraft commands when I was 12, I wanted something bigger as real programming, then when I reached 14 I started with HTML, CSS and JavaScript! and then to my favourite language **Python**!
+👨‍💻 I'm particularly interested in AI, especially large language models, and I love exploring new technologies and tools. I've also developed a passion for web scraping using Selenium, which has proved to be a powerful tool for me.
 
-<br>
+📚 My programming journey started with HTML and CSS, then I moved on to JavaScript. But once I discovered Python, I knew I found my language of choice. I've been working with it ever since, constantly learning and improving my skills.
 
-## 🛠 &nbsp;Programming
+🤖 I'm also a Discord developer with Pycord, which has given me a great opportunity to work with APIs and build cool bots. If you're interested in chatting, you can find me on Discord as MrNotFree#0001.
 
-- Python 🐍
-  - Package managment.
-  - Discord bots.
-  - Automation testing.
-  - AI.
-  - OOP.
-- JavaScript 💻
-  - jQuery
-  - Basics
-
-## 📁 &nbsp;Version Control
-
-- Git
-- GitHub
-
-## 📚 &nbsp;Documentation Tools
-
-- Sphinx
-- ReadTheDocs
-- reStructuredText (.rst)
-- Markdown (.md)
-
-## 📄&nbsp;Other markup languages
-
-- HTML5
-- CSS3
-
-## 📊 &nbsp;Data formatting 
-
-- JSON
-- XML
-- SQLite3
-
-<br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Kh4lidMD">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kh4lidMD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
-<br>
-
-## 🤝🏻 &nbsp;Connect with Me
-
-- Email: KhalidYBel@gmail.com
-- Instagram: [@khxql](https://www.instagram.com/khxql/)
-- Telegram: [@khx40](https://t.me/khx40)
-- Twitter: [khxsq](https://twitter.com/khxsq)
-- Discord: KMD#2222
-
+🎨 On top of programming, I'm a medium-level designer.
 
 <br><br><br>
 
